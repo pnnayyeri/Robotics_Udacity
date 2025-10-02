@@ -48,7 +48,7 @@ Map My World/catkin_ws/src\
 1. Clone the repository into your ROS workspace:  
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/your-username/map-my-world.git
+git clone https://github.com/pnnayyeri/Robotics_Udacity.git
 cd ..
 catkin_make
 ```
